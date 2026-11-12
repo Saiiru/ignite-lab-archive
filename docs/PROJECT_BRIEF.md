@@ -35,3 +35,14 @@ Registro pessoal associado ao Ignite Lab; participação não certificada. Créd
 **Ainda não é:** sistema integrado à KORA, serviço em produção ou prova de maturidade sem testes.
 
 [Voltar ao portfólio SAIRU/BLACKSITE](https://saiiru.github.io/#projetos-independentes)
+
+
+## Verificação de funcionamento — 12/11/2026
+
+**Estado confirmado:** Repositório arquivo
+
+**Evidência:** Nenhuma implementação identificada após leitura da árvore pública
+
+**Limites e bloqueios:** Sem aplicativo, servidor, página ou teste para publicar.
+
+Esta validação não implica integração à KORA nem certificação de produção. Não alterar histórico, licença e autoria dos tutoriais.
